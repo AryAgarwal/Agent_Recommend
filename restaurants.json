@@ -1,0 +1,601 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant 1",
+    "cuisine": "Italian",
+    "location": "HSR Layout",
+    "capacity": 85,
+    "tags": [
+      "romantic",
+      "pet-friendly",
+      "fine dining"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 2,
+    "name": "Restaurant 2",
+    "cuisine": "Indian",
+    "location": "Koramangala",
+    "capacity": 88,
+    "tags": [
+      "fine dining"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Restaurant 3",
+    "cuisine": "Chinese",
+    "location": "Jayanagar",
+    "capacity": 60,
+    "tags": [
+      "casual",
+      "pet-friendly",
+      "vegan options"
+    ],
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "name": "Restaurant 4",
+    "cuisine": "Indian",
+    "location": "Marathahalli",
+    "capacity": 94,
+    "tags": [
+      "fine dining",
+      "vegan options",
+      "family-friendly"
+    ],
+    "rating": 3.0
+  },
+  {
+    "id": 5,
+    "name": "Restaurant 5",
+    "cuisine": "American",
+    "location": "Koramangala",
+    "capacity": 28,
+    "tags": [
+      "buffet",
+      "pet-friendly",
+      "casual"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 6,
+    "name": "Restaurant 6",
+    "cuisine": "Italian",
+    "location": "Indiranagar",
+    "capacity": 42,
+    "tags": [
+      "family-friendly",
+      "buffet"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Restaurant 7",
+    "cuisine": "Italian",
+    "location": "Indiranagar",
+    "capacity": 58,
+    "tags": [
+      "rooftop"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Restaurant 8",
+    "cuisine": "American",
+    "location": "Indiranagar",
+    "capacity": 15,
+    "tags": [
+      "rooftop",
+      "family-friendly",
+      "fine dining"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 9,
+    "name": "Restaurant 9",
+    "cuisine": "American",
+    "location": "Jayanagar",
+    "capacity": 69,
+    "tags": [
+      "fine dining"
+    ],
+    "rating": 3.1
+  },
+  {
+    "id": 10,
+    "name": "Restaurant 10",
+    "cuisine": "Italian",
+    "location": "Jayanagar",
+    "capacity": 61,
+    "tags": [
+      "romantic",
+      "rooftop"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Restaurant 11",
+    "cuisine": "Indian",
+    "location": "Marathahalli",
+    "capacity": 70,
+    "tags": [
+      "family-friendly"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 12,
+    "name": "Restaurant 12",
+    "cuisine": "American",
+    "location": "Indiranagar",
+    "capacity": 62,
+    "tags": [
+      "family-friendly"
+    ],
+    "rating": 3.0
+  },
+  {
+    "id": 13,
+    "name": "Restaurant 13",
+    "cuisine": "Italian",
+    "location": "HSR Layout",
+    "capacity": 55,
+    "tags": [
+      "family-friendly",
+      "rooftop",
+      "vegan options"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "name": "Restaurant 14",
+    "cuisine": "Chinese",
+    "location": "HSR Layout",
+    "capacity": 31,
+    "tags": [
+      "live music",
+      "family-friendly",
+      "rooftop"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 15,
+    "name": "Restaurant 15",
+    "cuisine": "French",
+    "location": "Whitefield",
+    "capacity": 68,
+    "tags": [
+      "romantic"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 16,
+    "name": "Restaurant 16",
+    "cuisine": "French",
+    "location": "Whitefield",
+    "capacity": 96,
+    "tags": [
+      "romantic",
+      "fine dining"
+    ],
+    "rating": 5.0
+  },
+  {
+    "id": 17,
+    "name": "Restaurant 17",
+    "cuisine": "Indian",
+    "location": "Jayanagar",
+    "capacity": 83,
+    "tags": [
+      "vegan options"
+    ],
+    "rating": 3.4
+  },
+  {
+    "id": 18,
+    "name": "Restaurant 18",
+    "cuisine": "Mexican",
+    "location": "Jayanagar",
+    "capacity": 87,
+    "tags": [
+      "pet-friendly"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "name": "Restaurant 19",
+    "cuisine": "American",
+    "location": "MG Road",
+    "capacity": 40,
+    "tags": [
+      "casual",
+      "rooftop"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": 20,
+    "name": "Restaurant 20",
+    "cuisine": "American",
+    "location": "Jayanagar",
+    "capacity": 65,
+    "tags": [
+      "pet-friendly",
+      "casual"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 21,
+    "name": "Restaurant 21",
+    "cuisine": "Italian",
+    "location": "Indiranagar",
+    "capacity": 79,
+    "tags": [
+      "casual"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 22,
+    "name": "Restaurant 22",
+    "cuisine": "Japanese",
+    "location": "Marathahalli",
+    "capacity": 82,
+    "tags": [
+      "live music",
+      "rooftop"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 23,
+    "name": "Restaurant 23",
+    "cuisine": "French",
+    "location": "Marathahalli",
+    "capacity": 28,
+    "tags": [
+      "family-friendly",
+      "live music"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 24,
+    "name": "Restaurant 24",
+    "cuisine": "French",
+    "location": "Jayanagar",
+    "capacity": 85,
+    "tags": [
+      "vegan options",
+      "casual",
+      "romantic"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 25,
+    "name": "Restaurant 25",
+    "cuisine": "Chinese",
+    "location": "Jayanagar",
+    "capacity": 70,
+    "tags": [
+      "vegan options",
+      "pet-friendly",
+      "family-friendly"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "name": "Restaurant 26",
+    "cuisine": "American",
+    "location": "HSR Layout",
+    "capacity": 85,
+    "tags": [
+      "rooftop"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "name": "Restaurant 27",
+    "cuisine": "Italian",
+    "location": "MG Road",
+    "capacity": 90,
+    "tags": [
+      "romantic",
+      "casual"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 28,
+    "name": "Restaurant 28",
+    "cuisine": "Chinese",
+    "location": "Jayanagar",
+    "capacity": 10,
+    "tags": [
+      "pet-friendly",
+      "rooftop"
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": 29,
+    "name": "Restaurant 29",
+    "cuisine": "French",
+    "location": "HSR Layout",
+    "capacity": 75,
+    "tags": [
+      "rooftop"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "name": "Restaurant 30",
+    "cuisine": "Italian",
+    "location": "Jayanagar",
+    "capacity": 86,
+    "tags": [
+      "fine dining"
+    ],
+    "rating": 3.2
+  },
+  {
+    "id": 31,
+    "name": "Restaurant 31",
+    "cuisine": "Italian",
+    "location": "Marathahalli",
+    "capacity": 34,
+    "tags": [
+      "fine dining",
+      "pet-friendly"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 32,
+    "name": "Restaurant 32",
+    "cuisine": "French",
+    "location": "MG Road",
+    "capacity": 32,
+    "tags": [
+      "rooftop",
+      "fine dining",
+      "romantic"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 33,
+    "name": "Restaurant 33",
+    "cuisine": "American",
+    "location": "Jayanagar",
+    "capacity": 95,
+    "tags": [
+      "romantic"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 34,
+    "name": "Restaurant 34",
+    "cuisine": "Italian",
+    "location": "MG Road",
+    "capacity": 27,
+    "tags": [
+      "fine dining",
+      "family-friendly"
+    ],
+    "rating": 3.6
+  },
+  {
+    "id": 35,
+    "name": "Restaurant 35",
+    "cuisine": "Italian",
+    "location": "MG Road",
+    "capacity": 35,
+    "tags": [
+      "live music"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": 36,
+    "name": "Restaurant 36",
+    "cuisine": "French",
+    "location": "Whitefield",
+    "capacity": 46,
+    "tags": [
+      "pet-friendly"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 37,
+    "name": "Restaurant 37",
+    "cuisine": "Chinese",
+    "location": "HSR Layout",
+    "capacity": 64,
+    "tags": [
+      "family-friendly",
+      "pet-friendly"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 38,
+    "name": "Restaurant 38",
+    "cuisine": "French",
+    "location": "Jayanagar",
+    "capacity": 43,
+    "tags": [
+      "vegan options",
+      "live music",
+      "rooftop"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 39,
+    "name": "Restaurant 39",
+    "cuisine": "Japanese",
+    "location": "Marathahalli",
+    "capacity": 40,
+    "tags": [
+      "family-friendly",
+      "vegan options"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 40,
+    "name": "Restaurant 40",
+    "cuisine": "Chinese",
+    "location": "Marathahalli",
+    "capacity": 24,
+    "tags": [
+      "live music",
+      "vegan options"
+    ],
+    "rating": 3.2
+  },
+  {
+    "id": 41,
+    "name": "Restaurant 41",
+    "cuisine": "Italian",
+    "location": "Jayanagar",
+    "capacity": 47,
+    "tags": [
+      "fine dining",
+      "family-friendly",
+      "rooftop"
+    ],
+    "rating": 3.3
+  },
+  {
+    "id": 42,
+    "name": "Restaurant 42",
+    "cuisine": "Japanese",
+    "location": "Koramangala",
+    "capacity": 55,
+    "tags": [
+      "family-friendly",
+      "casual"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 43,
+    "name": "Restaurant 43",
+    "cuisine": "Chinese",
+    "location": "Indiranagar",
+    "capacity": 89,
+    "tags": [
+      "pet-friendly",
+      "romantic"
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": 44,
+    "name": "Restaurant 44",
+    "cuisine": "Thai",
+    "location": "Marathahalli",
+    "capacity": 84,
+    "tags": [
+      "buffet",
+      "romantic"
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": 45,
+    "name": "Restaurant 45",
+    "cuisine": "Thai",
+    "location": "Koramangala",
+    "capacity": 33,
+    "tags": [
+      "casual",
+      "buffet",
+      "vegan options"
+    ],
+    "rating": 3.4
+  },
+  {
+    "id": 46,
+    "name": "Restaurant 46",
+    "cuisine": "Japanese",
+    "location": "Jayanagar",
+    "capacity": 83,
+    "tags": [
+      "fine dining",
+      "pet-friendly",
+      "buffet"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 47,
+    "name": "Restaurant 47",
+    "cuisine": "American",
+    "location": "HSR Layout",
+    "capacity": 15,
+    "tags": [
+      "live music",
+      "pet-friendly",
+      "vegan options"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": 48,
+    "name": "Restaurant 48",
+    "cuisine": "Italian",
+    "location": "MG Road",
+    "capacity": 27,
+    "tags": [
+      "romantic",
+      "family-friendly"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 49,
+    "name": "Restaurant 49",
+    "cuisine": "Thai",
+    "location": "Koramangala",
+    "capacity": 86,
+    "tags": [
+      "romantic",
+      "casual"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 50,
+    "name": "Restaurant 50",
+    "cuisine": "Italian",
+    "location": "Jayanagar",
+    "capacity": 85,
+    "tags": [
+      "family-friendly"
+    ],
+    "rating": 4.3
+  }
+]
