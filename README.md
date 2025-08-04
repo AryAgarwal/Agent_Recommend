@@ -133,6 +133,4 @@ User: Cancel my booking with ID BOOK1056
 
 ---
 
-## 🧾 License
 
-MIT License © 2025 GoodFoods AI
