@@ -75,7 +75,7 @@ def cancel_reservation(booking_id):
 
 # ------------------- LLM Tool Calling -------------------
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
-API_KEY = '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'
+API_KEY = ''
 
 TOOLS = [
     {
